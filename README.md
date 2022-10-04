@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://lyrical-sternum-e97.notion.site/sc-lee-9a8cb17ae5fa438fa74d76fdf23c3ddc" target="_blank">
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=Notion&logoColor=white">
 </a>
 
 <!--
