@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 
 ## 🎈 B A D G E 🎈
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+<br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/meowoof011/01_GrapeFestival) 
+<br>
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/meowoof011/07_LineGames) 
 <br>
 </div>
