@@ -2,13 +2,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChanLee🎈&fontSize=55&fontColor=#FFF)
 
-## 🎈 Introduce 🎈
+## 🎈 T e c h 🎈
   <a href="https://lyrical-sternum-e97.notion.site/sc-lee-9a8cb17ae5fa438fa74d76fdf23c3ddc" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-AAAAAA?style=square&logo=Notion&logoColor=white"/>
   </a>
   <br>
-  <br>
-  <strong>Tech</strong>
   <br>
   <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
