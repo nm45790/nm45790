@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+<a href="https://lyrical-sternum-e97.notion.site/sc-lee-9a8cb17ae5fa438fa74d76fdf23c3ddc" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=notion&logoColor="000000"/></a>
 
 <!--
 **nm45790/nm45790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
