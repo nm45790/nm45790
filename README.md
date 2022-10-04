@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ChanLee🎈&fontSize=55&fontColor=#FFF)
 
 ## 🎈 B A D G E 🎈
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 <br>
 [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/meowoof011/01_GrapeFestival) 
