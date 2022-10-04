@@ -4,7 +4,7 @@
 
 ## 🎈 T e c h 🎈
   <a href="https://lyrical-sternum-e97.notion.site/sc-lee-9a8cb17ae5fa438fa74d76fdf23c3ddc" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-AAAAAA?style=square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-AAAAAA?style=square&logo=Notion&logoColor=white" style="width:100px"/>
   </a>
   <br>
   <br>
